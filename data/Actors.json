@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Student","characterIndex":0,"characterName":"Student","classId":1,"equips":[0,0,0,3,0],"faceIndex":4,"faceName":"","traits":[{"code":62,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Cat","characterIndex":1,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[{"code":62,"dataId":0,"value":1},{"code":31,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Mr. Pickles","nickname":"","note":"","profile":""}
+]
